@@ -3,7 +3,7 @@
 
   ## ✨ Welcome to my page. I record my learning journey and growth here!
   
-  ![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=rose_pine&show_icons=true)
+  ![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=calm&show_icons=true)
 </p>
 
 #### 👩🏻‍💻 Currently I am..
