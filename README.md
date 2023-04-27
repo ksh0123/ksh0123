@@ -18,7 +18,7 @@
 - [Naweki: ecommerce website for sports products inspired by Nike](https://github.com/ksh0123/42-1st-Naweki-backend)
 - [smallbox: ticket booking platform for indie films inspired by CGV](https://github.com/ksh0123/42-2nd-smallbox-backend)
 
-## I've read...
+## In the loop
 <div>
 <a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
 </div>
