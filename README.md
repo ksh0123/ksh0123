@@ -1,12 +1,17 @@
-## Hi there 👋
-- 👩🏻‍💻 Backend 
+## Hi there 👋 
+![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=apprentice&show_icons=true)
+
 
 ### Languages
 JavaScript SQL
 
 ### Technologies
 AWS Docker Node.js
-      
+
+### Reading...
+<div>
+<a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
+</div>
 
 <!--
 **ksh0123/ksh0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Reading...
-<div>
-<a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
-</div>
 
 </br>
 
