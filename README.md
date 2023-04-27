@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 Backend 
 - 📚 Reading...
 <div>
-<a href="https://app.daily.dev/DailyDevTips"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
+<a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
 </div>
