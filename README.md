@@ -1,5 +1,5 @@
 ## Hi there 👋 
-![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=apprentice&show_icons=true)
+![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=rose_pine&show_icons=true)
 
 
 ### Languages
