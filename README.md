@@ -10,9 +10,7 @@
 <a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
 </div>
 
-</br>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ksh0123.visitor-badge)
+<br>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ksh0123.visitor-badge)</br>
 
 <!--
 **ksh0123/ksh0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
