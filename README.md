@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 I like to read:
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ksh0123/ksh0123/blob/master/devcard.svg" width="400" alt="Shinhye's Dev Card"/></a>
+
