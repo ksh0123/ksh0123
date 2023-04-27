@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122417190/234785310-1b7feaa2-5100-45d0-9125-7cb51de7c464.png?raw=true" alt="Hello World image"/>
 
-  ### ✨ Welcome to my page. I record my learning journey and growth here!
+  ## ✨ Welcome to my page. I record my learning journey and growth here!
   
   ![Shinhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0123&theme=rose_pine&show_icons=true)
 </p>
@@ -11,10 +11,14 @@
 - studying: Kubernetes in Google Cloud, Docker
 - interested in: Python
 
-### Stack
+#### Stack
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&amp;logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&amp;logo=Amazon RDS&amp;logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=Docker&amp;logoColor=white">
 
-### Reading...
+## Projects 
+- Naweki
+- smallbox
+
+## I've read...
 <div>
 <a href="https://app.daily.dev/nene"><img src="/devcard.svg" width="300" alt="Shinhye's Dev Card"/></a>
 </div>
