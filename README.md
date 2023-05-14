@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122417190/234785310-1b7feaa2-5100-45d0-9125-7cb51de7c464.png?raw=true" alt="Hello World image"/>
+  <img src="https://github.com/ksh0123/ksh0123/assets/122417190/395ee144-f1bd-4a9b-b849-c592e89c4061" alt="Hello World image"/>
 
   ## ✨ Welcome to my page. I record my learning journey and growth here!
   
