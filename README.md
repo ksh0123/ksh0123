@@ -14,7 +14,7 @@
 ### 📈 Stats
 <div>
   <div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksh0123&theme=calm&show_icons=true" alt="Shinhye's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksh0123" alt="Shinhye's GitHub stats">
 </div>
 
 <!--
