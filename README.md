@@ -1,16 +1,9 @@
 <p align="center">
 
-![image](https://github.com/ksh0123/ksh0123/assets/122417190/85728898-d2f8-4565-9132-1e74ee430452)
-
+![ksh0123](https://github.com/ksh0123/ksh0123/assets/122417190/4a53a4ba-5725-4454-91c9-f9cb5edde505)
 
 ### _Tech Stack_
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mysql,aws,docker&perline=3)](https://skillicons.dev)
-<!--
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=flat&amp;logo=python&amp;logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&amp;logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&amp;logo=Amazon RDS&amp;logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=Docker&amp;logoColor=white">
-</p>
--->
 
 <div>
   <div class="image-container">
