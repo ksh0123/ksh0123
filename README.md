@@ -13,7 +13,8 @@
 - [smallbox: ticket booking platform for indie films inspired by CGV](https://github.com/ksh0123/42-2nd-smallbox-backend)
 - Predemotics: AI SAMD(software as medical device) demo developed under NDA for [Prevenotics](https://www.prevenotics.co.kr/company/about.php) during internship
 
-### 📈 Stats
+---
+
 <div>
   <div class="image-container">
   <img src="https://github-readme-stats.vercel.app/api?username=ksh0123" alt="Shinhye's GitHub stats">
