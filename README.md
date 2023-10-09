@@ -1,6 +1,7 @@
 <p align="center">
 
-![ksh0123](https://github.com/ksh0123/ksh0123/assets/122417190/4a53a4ba-5725-4454-91c9-f9cb5edde505)
+![ksh0123](https://github.com/ksh0123/ksh0123/assets/122417190/139e99b3-5955-48d7-8f3f-a599307ea49a)
+
 
 ### _Tech Stack_
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mysql,aws,docker&perline=3)](https://skillicons.dev)
