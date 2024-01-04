@@ -14,9 +14,10 @@
 #
 
 ### _Projects_
-- [Naweki: ecommerce website for sports products inspired by Nike](https://github.com/ksh0123/42-1st-Naweki-backend)
-- [smallbox: ticket booking platform for indie films inspired by CGV](https://github.com/ksh0123/42-2nd-smallbox-backend)
+- [NFT Personal Dashboard - Showcase & Sale Platform](https://github.com/ksh0123/NFT-Sale-Page)
 - Predemotics: AI SAMD(software as medical device) demo developed under NDA for [Prevenotics](https://www.prevenotics.co.kr/company/about.php) during internship
+- [smallbox: ticket booking platform for indie films inspired by CGV](https://github.com/ksh0123/42-2nd-smallbox-backend)
+- [Naweki: ecommerce website for sports products inspired by Nike](https://github.com/ksh0123/42-1st-Naweki-backend)
 <br>
 <div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh0123%2Fhit-counter&count_bg=%23C6BCD0&title_bg=%2385729F&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
