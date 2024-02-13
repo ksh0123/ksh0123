@@ -15,7 +15,7 @@
 
 ### _Projects_
 - [NFT Personal Dashboard - Showcase & Sale Platform](https://github.com/ksh0123/NFT-Sale-Page)
-- Predemotics: AI SAMD(software as medical device) demo developed under NDA for [Prevenotics](https://www.prevenotics.co.kr/company/about.php) during internship
+- Predemotics: AI SAMD(software as medical device) demo developed under NDA for [Prevenotics](https://www.prevenotics.com/company/about.php) during internship
 - [smallbox: ticket booking platform for indie films inspired by CGV](https://github.com/ksh0123/42-2nd-smallbox-backend)
 - [Naweki: ecommerce website for sports products inspired by Nike](https://github.com/ksh0123/42-1st-Naweki-backend)
 <br>
