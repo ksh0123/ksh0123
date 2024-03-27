@@ -23,7 +23,7 @@
 #
 
 ### _Studying..._
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,python,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,nextjs,typescript,python,aws,docker)](https://skillicons.dev)
 <br>
 #
 <div>
