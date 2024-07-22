@@ -4,7 +4,7 @@
 
 
 ### _Tech Stack_
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mysql,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,mysql,solidity)](https://skillicons.dev)
 
 <div>
   <div class="image-container">
@@ -23,7 +23,7 @@
 #
 
 ### _Studying..._
-[![My Skills](https://skillicons.dev/icons?i=rust,nextjs,typescript,python,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,nextjs,python,aws,docker)](https://skillicons.dev)
 <br>
 #
 <div>
