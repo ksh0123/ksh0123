@@ -6,10 +6,6 @@
 ### _Tech Stack_
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,mysql,solidity)](https://skillicons.dev)
 
-<div>
-  <div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksh0123&theme=rose_pine&show_icons=true" alt="Shinhye's GitHub stats">
-</div>
 
 #
 
@@ -26,9 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,nextjs,python,aws,docker)](https://skillicons.dev)
 <br>
 #
-<div>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh0123%2Fhit-counter&count_bg=%23C6BCD0&title_bg=%2385729F&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-</div>
 
 <!--
 **ksh0123/ksh0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
